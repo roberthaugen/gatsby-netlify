@@ -8,10 +8,10 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: "Gatsby Boostrap & WP",
-    description: "This is a gatsby website",
+    description: "This is a gatsby website for the web",
     keywords: "gatsby, gatsbyjs, wordpress gatsby",
     image: '/static/gatsby.jpg',
-    url: "https://www.gatsby.org"
+    url: "https://udemy-gatsby-course.netlify.com"
   },
   
   plugins: [
