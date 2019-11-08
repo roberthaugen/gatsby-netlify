@@ -1,0 +1,12 @@
+body {
+    min-height: 100vh;
+    position: relative;
+    margin: 0;
+    padding-bottom: 60px;
+}
+h1 {
+    font-size: 3rem;
+}
+p {
+    font-size: 18px;
+}
