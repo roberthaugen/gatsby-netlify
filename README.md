@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Yo, this is my Gatsby's hello-world starterkit from udemy
+  Yo, this is my GatsbyReactWordpressPWA starterkit from udemy
 </h1>
 Do ya wanna learn how to use Wordpress with Gatsby, GraphQL and React? Then you are at da right place, at the right time.
 
