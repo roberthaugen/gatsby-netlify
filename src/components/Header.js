@@ -3,7 +3,7 @@ import {Nav, Navbar } from "react-bootstrap"
 import {Link} from "gatsby"
 
 export default (props) => (
-    
+  <header>
 <Navbar bg="light" expand="lg">
   <Navbar.Brand href="/">Gatsby-Bootstrap</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -21,5 +21,5 @@ export default (props) => (
     </Nav>
   </Navbar.Collapse>
 </Navbar>
-    
+</header>
 )

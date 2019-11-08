@@ -6,7 +6,7 @@ import {graphql} from "gatsby"
 
 export default ({data}) => {
     return (
-            <PrimaryLayout column="col-6">
+            <PrimaryLayout column="col-10">
               
                 {data.allWordpressPost.nodes.map(node => (
                 <Post 
